@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to mce2021!
 
 You can use the [editor on GitHub](https://github.com/mce2021/mce2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.bnl.gov/mce2021/) and ![Image](<img width="583" alt="Screen Shot 2021-04-21 at 2 25 44 PM" src="https://user-images.githubusercontent.com/61419915/115602907-80454f80-a2ad-11eb-82d9-4c4c1c979090.png">)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
