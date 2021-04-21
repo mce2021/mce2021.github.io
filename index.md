@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/mce2021/mce2021.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link](https://www.bnl.gov/mce2021)
+[Current and Future Trends in Macromolecular Crystallography Experiments](https://www.bnl.gov/mce2021)
 
 <img src="https://mce2021.github.io/images/AMX_hutch.png" />
 
