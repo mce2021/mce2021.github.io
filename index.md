@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link](https://www.bnl.gov/mce2021)
 
-[Image](<https://github.com/mce2021/mce2021.github.io/blob/4f39468677da894b9c6c73538a0fa3a4e2401736/images/AMX_hutch.png)
+[Image](<img src="{{site.url}}/images/AMX_hutch.png" \>)
 
 ### Markdown
 
