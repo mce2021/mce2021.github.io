@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/mce2021/mce2021.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [Link](https://www.bnl.gov/mce2021)
+[Image](<img width="583" alt="Screen Shot 2021-04-21 at 2 25 44 PM" src="https://user-images.githubusercontent.com/61419915/115602907-80454f80-a2ad-11eb-82d9-4c4c1c979090.png">)
 
 ### Markdown
 
