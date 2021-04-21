@@ -1,4 +1,4 @@
-## Welcome to mce2021!
+# Welcome to mce2021!
 
 Focus on Automation, High Data Rate Analysis and User Interfaces
 
@@ -8,13 +8,13 @@ The goal of this site is to provide a central hub for collaborative efforts in b
 
 <img src="https://mce2021.github.io/images/AMX_hutch.png" />
 
-# Working Groups
+## Working Groups
 ```
 1. Diffraction image viewer
 2. Spotfinder/indexer
 3. Automation
 ```
-Let us know if you'd like to be added to a working group, or if you'd like to create one </br>
+Let us know if you'd like to be added to a working group, or if you'd like to create one
 
 Contact us at: NSLS-II_MX_2021@bnl.gov
 
