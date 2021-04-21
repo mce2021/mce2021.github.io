@@ -1,40 +1,33 @@
 ## Welcome to mce2021!
 
-You can use the [editor on GitHub](https://github.com/mce2021/mce2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Focus on Automation, High Data Rate Analysis and User Interfaces
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of this site is to provide a central hub for collaborative efforts in both software and hardware developments aimed at improving the rate and quality of MX experiments performed around the world.
 
-[Current and Future Trends in Macromolecular Crystallography Experiments](https://www.bnl.gov/mce2021)
+[**Current and Future Trends in Macromolecular Crystallography Experiments Inaugural Workshop**](https://www.bnl.gov/mce2021)
 
 <img src="https://mce2021.github.io/images/AMX_hutch.png" />
 
-### Markdown
+# Working Groups
+```
+1. Diffraction image viewer
+2. Spotfinder/indexer
+3. Automation
+```
+Let us know if you'd like to be added to a working group, or if you'd like to create one </br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contact us at: NSLS-II_MX_2021@bnl.gov
 
-```markdown
-Syntax highlighted code block
 
-# Test 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]()
+### Working group meeting schedule
+```
+under construction
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mce2021/mce2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Projects
+```
+under construction
+```
 
 ### Support or Contact
 
