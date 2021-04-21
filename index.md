@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link](https://www.bnl.gov/mce2021)
 
-[Image](<img src="https://github.com/mce2021/mce2021.github.io/blob/4f39468677da894b9c6c73538a0fa3a4e2401736/images/AMX_hutch.png">)
+[Image](<https://github.com/mce2021/mce2021.github.io/blob/4f39468677da894b9c6c73538a0fa3a4e2401736/images/AMX_hutch.png)
 
 ### Markdown
 
@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.bnl.gov/mce2021/) and ![Image](<img width="583" alt="Screen Shot 2021-04-21 at 2 25 44 PM" src="https://user-images.githubusercontent.com/61419915/115602907-80454f80-a2ad-11eb-82d9-4c4c1c979090.png">)
+[Link](url) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
