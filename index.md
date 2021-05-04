@@ -21,7 +21,7 @@ Contact us at: NSLS-II_MX_2021@bnl.gov
 
 ### Working group meeting schedule
 ```
-#Wednesday May 4, 2021
+**Wednesday May 5, 2021**
 1. RFID/Barcode tags: 8AM US Eastern Daylight Time
 2. Spotfinding/indexing: 9AM US Eastern Daylight Time
 3. Diffraction image viewer: 10AM US Eastern Daylight Time
