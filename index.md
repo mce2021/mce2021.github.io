@@ -10,9 +10,9 @@ The goal of this site is to provide a central hub for collaborative efforts in b
 
 ## Working Groups
 ```
-1. Diffraction image viewer
-2. Spotfinder/indexer
-3. Automation
+1. RFID/Barcode tags
+2. Spotfinding/indexing
+3. Diffraction image viewer
 ```
 Let us know if you'd like to be added to a working group, or if you'd like to create one
 
@@ -21,7 +21,10 @@ Contact us at: NSLS-II_MX_2021@bnl.gov
 
 ### Working group meeting schedule
 ```
-under construction
+#Wednesday May 4, 2021
+1. RFID/Barcode tags: 8AM US Eastern Daylight Time
+2. Spotfinding/indexing: 9AM US Eastern Daylight Time
+3. Diffraction image viewer: 10AM US Eastern Daylight Time
 ```
 
 ## Projects
