@@ -18,6 +18,9 @@ Let us know if you'd like to be added to a working group, or if you'd like to cr
 
 Contact us at: NSLS-II_MX_2021@bnl.gov
 
+or
+
+Check out the [discussions](https://github.com/mce2021/mce2021.github.io/discussions)
 
 ### Working group meeting schedule
 ```
