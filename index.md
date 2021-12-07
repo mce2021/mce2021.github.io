@@ -21,6 +21,8 @@ Contact us at: NSLS-II_MX_2021@bnl.gov
 or
 
 Check out the [discussions](https://github.com/mce2021/mce2021.github.io/discussions)
+and the [Diffraction Viewer Working Group Wiki](https://github.com/mce2021/mce2021.github.io/wiki/MCE2021-Diffraction-viewer-working-group)
+
 
 ### Working group meeting schedule
 ```
